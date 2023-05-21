@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+body{
+    background-color: aquamarine;
+    /* background: linear-gradient() */
+}
+@tailwind utilities;
