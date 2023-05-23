@@ -1,15 +1,13 @@
 import Report from "./components/Report";
-import Search from "./components/Search"
-
+import Search from "./components/Search";
 
 function WeatherApp() {
-
   return (
-    <>    
-    <Search />
-    <Report />
+    <>
+      <Search />
+      <Report />
     </>
-  )
+  );
 }
 
 export default WeatherApp;

@@ -11,7 +11,7 @@ const Search = () => {
         <>
         <div className="header text-center">
             <h1 className="text-5xl text-gray-400 m-2">Weather In</h1>
-            <input type="search" name="search" id="search" className="w-[50vw] h-10 my-4 pl-6 text-lg rounded-3xl"
+            <input type="search" name="search" id="search" className="w-[50vw] md:w-[40vw] h-10 my-4 pl-6 text-lg rounded-3xl pr-4"
              placeholder="search" onChange={handleChange} value={city}
              />
              <button className="mx-4 px-4 text-center text-lg bg-green-300 rounded-2xl h-10"

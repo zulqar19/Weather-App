@@ -46,3 +46,4 @@ const weatherSlices = createSlice({
 
 
 export default weatherSlices.reducer;
+
