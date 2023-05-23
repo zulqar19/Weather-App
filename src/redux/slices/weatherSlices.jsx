@@ -47,14 +47,3 @@ const weatherSlices = createSlice({
 
 export default weatherSlices.reducer;
 
-// Saransh Sahu06:56
-// git branch <BRANCHNAME>
-
-// git checkout <BRANCHNAME>
-
-// git add .
-// Or click on + icon in source control 
-
-// git commit -m "<MESSAGE>"
-
-// git push
